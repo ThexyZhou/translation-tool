@@ -10,6 +10,7 @@
 * 爬取翻译结果(source.txt)
 ## 需要安装
 * tesseract-ocr-3.05.2
+* tesseroct-2.3.1
 * Google Chrome(版本尽量新一点)
 * MongoDB(非必须，仅用于存储每次查询的单词)
 ## 所需库
